@@ -1,6 +1,14 @@
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=48&center=true&vCenter=true&width=1000&height=80&duration=3500&pause=1000&color=00F7FF&background=00000000&lines=Hello+There!+I'm+Tharun;Aspiring+Software+Engineer;Future+DevOps+Engineer" />
-</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=48&center=true&vCenter=true&width=1000&height=100&duration=3000&pause=1000&color=00F7FF&lines=Hello+There!+I'm+Tharun+👋;Aspiring+Software+Engineer;Future+DevSecOps+Engineer"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/programmer-working-late-night-digital-art-illustration_1121478-19111.jpg?semt=ais_hybrid&w=740&q=80" width="720" />
+</p>
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaKooLit/Hyprland-Dots/main/assets/latte.png" width="260" />
@@ -20,8 +28,8 @@
 - 👀 Passionate about building scalable **mobile apps** using **Flutter**
 - 🌱 Currently improving **Data Structures & Algorithms**
 - 🤝 Love collaborating on **real-world software projects**
-- 🎯 Goal: **Software Engineer + DevOps Engineer**
-- 🎧 Code + Tamil music = Peak productivity
+- 🎯 Goal: **Software Engineer + DevSecOps Engineer**
+- 🎧 Code + Tamil music = peak productivity 🚀  
 
 </td>
 
@@ -42,7 +50,8 @@ Python • C • C++ • Java • Dart • SQL • Rust • TypeScript
 Flutter • Firebase • Git • REST APIs • Docker • Jenkins • NestJS  
 
 **Systems**  
-Linux • CLI • Shell Scripting • CI/CD Basics  
+Linux • CLI • Shell Scripting • CI/CD • Security Fundamentals
+
 
 **IDEs**  
 VS Code • Android Studio • PyCharm • IntelliJ  
@@ -67,6 +76,14 @@ VS Code • Android Studio • PyCharm • IntelliJ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bart_simpson_og_001?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
@@ -100,4 +117,5 @@ VS Code • Android Studio • PyCharm • IntelliJ
 ---
 
 ### ⚡ Fun Fact  
-I learn fast, build fast, and love solving real engineering problems 🚀
+I learn fast, build fast, and love solving real engineering problems 🚀 — late-night coding is when I’m at my best 🌙
+
