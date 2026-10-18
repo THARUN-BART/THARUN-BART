@@ -9,7 +9,7 @@ on:
       - dark_mode.svg
       - 'cache/**'
   schedule:
-    - cron: "0 4 * * *"
+    - cron: "0 4 * * 1"
 
 jobs:
   build:
